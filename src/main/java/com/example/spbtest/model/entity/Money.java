@@ -1,6 +1,5 @@
 package com.example.spbtest.model.entity;
 
-
 import com.example.spbtest.model.enums.MoneyType;
 import com.example.spbtest.model.enums.PurchaseType;
 import jakarta.persistence.Column;
